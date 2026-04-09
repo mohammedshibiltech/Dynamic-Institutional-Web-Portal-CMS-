@@ -12,7 +12,6 @@ A high-performance, full-stack institutional web portal designed to centralize c
 ---
 
 ## 📸 Screenshots
-*(Pro-tip: Add your screenshots here to wow recruiters!)*
 | Home Page | Admin Dashboard | Department Notices |
 | :---: | :---: | :---: |
 | ![Home](https://via.placeholder.com/300x200?text=Home+Page) | ![Admin](https://via.placeholder.com/300x200?text=Admin+Panel) | ![Dept](https://via.placeholder.com/300x200?text=Notices) |
@@ -96,8 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed with ❤️ by [Your Name]**
+**Developed with ❤️ by MOHAMMED SHIBIL, MILAN, PARVANA, GAYATHRI
 ```
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
+- www.linkedin.com/in/mohdshibilp
 ```
