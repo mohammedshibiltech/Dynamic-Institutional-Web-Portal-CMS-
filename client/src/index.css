@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-light text-dark transition-colors duration-300 dark:bg-dark dark:text-light;
+}
+
+.glass-card {
+  @apply bg-white/70 backdrop-blur-md border border-white/30 shadow-lg transition-all duration-500 
+         dark:bg-dark/60 dark:border-white/10 dark:shadow-black/20;
+}
+
+.nav-link {
+  @apply px-4 py-2 hover:text-secondary transition-colors duration-300 font-medium;
+}
+
+.btn-primary {
+  @apply bg-primary text-white px-6 py-2 rounded-lg hover:bg-secondary transition-colors duration-300 shadow-md;
+}

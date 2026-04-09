@@ -1,0 +1,28 @@
+.news-ticker-container {
+    mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+}
+
+.ticker-content {
+    display: flex;
+    animation: ticker 30s linear infinite;
+    padding-left: 2rem;
+}
+
+@keyframes ticker {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.hover\:pause-animation:hover {
+    animation-play-state: paused;
+}
+
+.ticker-label {
+    clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
+    margin-right: -10px;
+}
