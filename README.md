@@ -14,7 +14,8 @@ A high-performance, full-stack institutional web portal designed to centralize c
 ## 📸 Screenshots
 | Home Page | Admin Dashboard | Department Notices |
 | :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/300x200?text=Home+Page) | ![Admin](https://via.placeholder.com/300x200?text=Admin+Panel) | ![Dept](https://via.placeholder.com/300x200?text=Notices) |
+| ![Home Page](./screenshots/home.png) | ![Admin Dashboard](./screenshots/admin_dashboard.png) | ![Department Notices](./screenshots/dept.png) |
+
 
 ---
 
